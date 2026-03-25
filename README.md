@@ -12,7 +12,7 @@
 |---|--------|-----|--------|
 | 1 (Leader) | Aryan Kumar | 202301070164 | [@Aryankr0711](https://github.com/Aryankr0711) |
 | 2 | Siddhant Kumar Sahu | 202301070159 | [@siddsahu17](https://github.com/siddsahu17) |
-| 3 | Amir Furquani | 202301070165 | @username |
+| 3 | Amir Furquani | 202301070165 | [@Amirfurquani](https://github.com/Amirfurquani) |
 | 4 | Raviraj Vijay Sonar | 202301070167 | [@RavirajSonar40](https://github.com/RavirajSonar40) |
 
 **Faculty:** Dr. Diptee Ghusse (HOD AIML)  
