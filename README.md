@@ -52,19 +52,15 @@ Ensure GPU runtime is enabled: `Runtime → Change runtime type → GPU`
 ### Training Curves and Loss per Epoch
 ![Training Results](./results/training_curves.png)
 
-| Task | Model | mAP@50 | mAP@50-95 | Top-1 Acc | Inf. Time (ms) |
-|------|-------|--------|-----------|-----------|----------------|
-| Detection | YOLOv8n | — | — | N/A | — |
-| Segmentation | YOLOv8n-seg | — | — | N/A | — |
-| Classification | YOLOv8n-cls | N/A | N/A | — | — |
-
-> Fill in actual values after running training and evaluation cells.
+| Task | Model | Precision | Recall | mAP@50 | mAP@50-95 |
+|------|-------|-----------|--------|--------|-----------|
+| Detection | YOLOv8m | 0.8766 | 0.8267 | 0.8959 | 0.7721 |
 
 ---
 
 ## 🌍 Application
 
-> Describe your chosen real-world application domain here (Section 12 of the notebook).
+The traffic detection system developed using YOLOv8 can be applied in real-time traffic monitoring to analyze vehicle flow and congestion, as well as in detecting traffic violations such as signal jumping and lane misuse. It can support smart traffic signal control by dynamically adjusting timings based on traffic density, improving overall road efficiency. Additionally, it is useful for surveillance and safety systems to identify accidents or abnormal activities, and can also assist autonomous driving systems by detecting vehicles and road elements, making it a valuable component in intelligent transportation systems.
 
 ---
 
